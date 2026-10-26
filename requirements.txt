@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+pymatgen
+ase
+torch
+openpyxl
+pyyaml

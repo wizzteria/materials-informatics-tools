@@ -1,0 +1,4 @@
+species,phase,T_low_K,T_high_K,A,B,C,D,E,F,G,H,source,last_reviewed,url
+Co3O4,solid,298,1500,177.0953,-100.4361,185.7792,-49.04861,-3.483951,-971.5415,331.2828,-910.0200,"NIST WebBook, Chase 1998 (JANAF 4th ed.), solid phase Shomate",1971-12,https://webbook.nist.gov/cgi/cbook.cgi?ID=C1308061&Units=SI&Mask=2
+CoO,solid,298,1600,43.65000,22.38373,-16.89386,6.556161,0.532263,-249.8643,102.6892,-237.7353,"NIST WebBook, Chase 1998 (JANAF 4th ed.), solid phase Shomate",1970-12,https://webbook.nist.gov/cgi/cbook.cgi?ID=C1307966&Units=SI&Mask=2
+CoO,solid,1600,3000,35.96290,14.12740,1.164304,-0.116488,5.161759,-237.8181,106.4037,-237.7353,"NIST WebBook, Chase 1998 (JANAF 4th ed.), solid phase Shomate",1970-12,https://webbook.nist.gov/cgi/cbook.cgi?ID=C1307966&Units=SI&Mask=2
